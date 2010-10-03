@@ -1,0 +1,6 @@
+TODO
+-------------------------------------------------------------
+- Connecting to rsync perl libraries
+- Modify structure config file to support more service directories for the backup
+- Use the libraries "tar" and "bzip2" for perl to replace bash comand
+- Integrate my module send mail for the notifications

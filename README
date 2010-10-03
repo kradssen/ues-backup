@@ -1,8 +1,3 @@
 This script is for making backups of important directories of server
 
 The content for now consists of two files, the configuration file (backup.conf) and the script file (backup_site.pl)
-
-
-TODO
-- Connecting to rsync perl libraries
-- Using rsync perl libraries for connecting to remote servers
